@@ -1,0 +1,10 @@
+2b931130ac86158e7cc6ed09f29f92cd *DESCRIPTION
+09f34b74e6663e568bd6c66a83841eff *LICENSE
+d4735ff960130dd094a47d782680efdf *NAMESPACE
+3e89a2a798636af752f1ecd33c9bf2f9 *R/cbills.R
+1680bc9c23df85c9bf4e15cf2f0dedb9 *build/vignette.rds
+b7b422fb2501b90836eac788e8e7f3ba *inst/doc/proPublicaBillsAPIWrapper.R
+2fc825b0010adfb087697f15a857aa15 *inst/doc/proPublicaBillsAPIWrapper.Rmd
+ec3f77dd4cf7641765195aebc97a59f3 *inst/doc/proPublicaBillsAPIWrapper.html
+047c91af6123d0e844265272203d4f10 *man/getBills.Rd
+2fc825b0010adfb087697f15a857aa15 *vignettes/proPublicaBillsAPIWrapper.Rmd
